@@ -45,4 +45,5 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
   <br>
   <a href="https://www.flickr.com/people/lucie_raoux/" target="_blank"> <img src="https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=white" /> </a>
   <a href="https://500px.com/p/lucie_raoux" target="_blank"> <img src="https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white" /> </a>
+  <a href="https://vsco.co/lucie-raoux" target="_blank"> <img src="https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white" /> </a>
 </details>
