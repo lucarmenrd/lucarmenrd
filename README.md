@@ -3,8 +3,39 @@ I love making video games, assets and illustrations. In addition to this, I also
 Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
 — C.
 
-<h4> links to other platforms, where you can support my work: </h4>
+<details>
+<summary> <b> Programming languages: </b> </summary>
+<br>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge" /> </a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white" /> </a>
+<br>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /> </a>
+<br>
+<details>
+<summary> <b> also familiar with: </b> </summary>
+<br>
+<img src="https://img.shields.io/badge/Bash Shell-4EAA25?style=for-the-badge&logo=gnu bash&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge" /> </a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a>
+</details>
+</details>
 
+<details>
+<summary> <b> Software: </b> </summary>
+<br>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a>
+
+</details>
+
+<details>
+<summary> <b> Links to other platforms, where you can support my work: </b> </summary>
+<br>
 <details>
   <summary> <b> resume / portfolio: </b> </summary>
   <br>
@@ -46,4 +77,5 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
   <a href="https://www.flickr.com/people/lucie_raoux/" target="_blank"> <img src="https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=white" /> </a>
   <a href="https://500px.com/p/lucie_raoux" target="_blank"> <img src="https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white" /> </a>
   <a href="https://vsco.co/lucie-raoux" target="_blank"> <img src="https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white" /> </a>
+</details>
 </details>
