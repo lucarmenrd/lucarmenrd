@@ -4,33 +4,59 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
 — C.
 
 <details>
-<summary> <b> Programming languages: </b> </summary>
-<br>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge" /> </a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white" /> </a>
-<br>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /> </a>
-<br>
-<details>
-<summary> <b> also familiar with: </b> </summary>
-<br>
-<img src="https://img.shields.io/badge/Bash Shell-4EAA25?style=for-the-badge&logo=gnu bash&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge" /> </a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a>
-</details>
-</details>
+ <summary> <b> Expertise: </b> </summary>
+ <br>
 
-<details>
-<summary> <b> Software: </b> </summary>
-<br>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> </a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a>
+ <details>
+  <summary> <b> Programming languages: </b> </summary>
+  <br>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge" /> </a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white" /> </a>
+  <br>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /> </a>
+  <br>
 
+  <details>
+   <summary> <b> also familiar with: </b> </summary>
+   <br>
+   <img src="https://img.shields.io/badge/Bash Shell-4EAA25?style=for-the-badge&logo=gnu bash&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge" /> </a>
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a>
+  </details>
+ </details>
+ <br>
+
+ <details>
+  <summary> <b> Software: </b> </summary>
+  <br>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a>
+  <br>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> </a>
+  <img src="https://img.shields.io/badge/Autodesk 3ds Max-000000?style=for-the-badge" /> </a>
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" /> </a>
+  <br>
+
+  <details>
+   <summary> <b> also familiar with: </b> </summary>
+   <br>
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/Adobe Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a>
+   <img src="https://img.shields.io/badge/Camtasia-000000?style=for-the-badge" /> </a>
+  </details>
+ </details>
+ <br>
+
+ <details>
+  <summary> <b> Skills: </b> </summary>
+  <br>
+ </details>
 </details>
 
 <details>
