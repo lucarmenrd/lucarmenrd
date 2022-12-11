@@ -59,14 +59,56 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
   <img src="https://img.shields.io/badge/programming-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/game development-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/software development-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/algorithms & data structures-000000?style=for-the-badge" />
-  
+  <img src="https://img.shields.io/badge/algorithms & data structures-000000?style=for-the-badge" /
+  <img src="https://img.shields.io/badge/computing principles-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/mathematics-000000?style=for-the-badge" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/digital painting-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/drawing-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sketching-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/illustration-000000?style=for-the-badge" />
   <br>
 
   <details>
    <summary> <b> also familiar with: </b> </summary>
    <br>
    <img src="https://img.shields.io/badge/computer graphics-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/audiovisual recognition system development-000000?style=for-the-badge" />
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/concept design-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/concept art-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/shading-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/rendering-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/character design-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/portraiture-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/pixel art-000000?style=for-the-badge" />
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/3D modelling-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/character modelling-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/rigging-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/3D animation-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/2D animation-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/character animation-000000?style=for-the-badge" />
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/game design-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/level design-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/storyboarding-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/motion capture-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/video editing-000000?style=for-the-badge" />
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/web design-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/web development-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/networks development-000000?style=for-the-badge" />
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/systems development-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/project management-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/agile-000000?style=for-the-badge" />
   </details>
   <br>
   
@@ -74,7 +116,10 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
    <summary> <b> hobbies: </b> </summary>
    <br>
    <img src="https://img.shields.io/badge/photography-000000?style=for-the-badge" />
-  
+   <img src="https://img.shields.io/badge/hdri photography-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/writing-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/traditional art-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/painting-000000?style=for-the-badge" />
   </details>
  </details>
 </details>
