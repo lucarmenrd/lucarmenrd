@@ -49,6 +49,7 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
    <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
    <img src="https://img.shields.io/badge/Camtasia-98c92d?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   </details>
  </details>
  <br>
