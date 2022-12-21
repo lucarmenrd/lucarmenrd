@@ -150,7 +150,7 @@ Lovely to meet you all, and I genuinely hope you’ll enjoy my work!! :) </p>
   <summary> <b> devlogs and artwork: </b> </summary>
   <br>
   <a href="https://twitter.com/lucie_raoux?t=-bhoxfmpuLilcT17VgbsFQ&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" /> </a>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Hive social-FF7A00?style=for-the-badge" /> </a>
  </details>
 
  <details>
